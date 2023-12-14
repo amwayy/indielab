@@ -1,1 +1,1 @@
-# InideLab
+# IndieLab
